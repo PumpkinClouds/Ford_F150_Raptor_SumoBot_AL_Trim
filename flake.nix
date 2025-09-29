@@ -18,8 +18,16 @@
         in
         pkgs.mkShell {
           packages = with pkgs; [
+            # Markdown editing
+            harper
+            marksman
+
+            # Project development
             kicad
             platformio
+
+            # Git utils
+            lazygit
           ];
 
           shellHook = ''
@@ -28,4 +36,3 @@
         };
     };
 }
-
