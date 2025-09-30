@@ -4,6 +4,11 @@
 	(generator_version "9.0")
 	(uuid "24513b60-8264-4489-80b6-bd549847f8ca")
 	(paper "A4")
+	(title_block
+		(title "Voltage Regulator")
+		(date "${CURRENT_DATE}")
+		(company "Nathan Wignall")
+	)
 	(lib_symbols
 		(symbol "Device:C_Polarized_Small_US"
 			(pin_numbers
