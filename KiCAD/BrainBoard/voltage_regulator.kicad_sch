@@ -314,7 +314,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "LM2940IMPX_5.0NOPB:LM2940IMPX-5.0_NOPB"
+		(symbol "Regulator_Linear:TLV1117-33"
 			(pin_names
 				(offset 0.254)
 			)
@@ -322,42 +322,23 @@
 			(in_bom yes)
 			(on_board yes)
 			(property "Reference" "U"
-				(at 0 3.81 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-				)
-			)
-			(property "Value" "LM2940IMPX-5.0/NOPB"
-				(at 0 1.27 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-				)
-			)
-			(property "Footprint" "DCY0004A_N"
-				(at 0 1.27 0)
+				(at -3.81 3.175 0)
 				(effects
 					(font
 						(size 1.27 1.27)
-						(italic yes)
 					)
-					(hide yes)
 				)
 			)
-			(property "Datasheet" "https://www.ti.com/lit/gpn/lm2940-n"
-				(at 0 1.27 0)
+			(property "Value" "TLV1117-33"
+				(at 0 3.175 0)
 				(effects
 					(font
 						(size 1.27 1.27)
-						(italic yes)
 					)
-					(hide yes)
+					(justify left)
 				)
 			)
-			(property "Description" ""
+			(property "Footprint" ""
 				(at 0 0 0)
 				(effects
 					(font
@@ -366,15 +347,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "LM2940IMPX-5.0/NOPB"
+			(property "Datasheet" "http://www.ti.com/lit/ds/symlink/tlv1117.pdf"
 				(at 0 0 0)
 				(effects
 					(font
@@ -383,7 +356,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_fp_filters" "DCY0004A_N DCY0004A_M DCY0004A_L"
+			(property "Description" "800mA Low-Dropout Linear Regulator, 3.3V fixed output, TO-220/TO-252/TO-263/SOT-223"
 				(at 0 0 0)
 				(effects
 					(font
@@ -392,22 +365,60 @@
 					(hide yes)
 				)
 			)
-			(symbol "LM2940IMPX-5.0_NOPB_1_1"
+			(property "ki_keywords" "linear regulator ldo fixed positive"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "SOT?223* TO?263* TO?252* TO?220*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "TLV1117-33_0_1"
 				(rectangle
-					(start -10.16 6.35)
-					(end 10.16 -6.35)
+					(start -5.08 -5.08)
+					(end 5.08 1.905)
 					(stroke
-						(width 0)
-						(type solid)
+						(width 0.254)
+						(type default)
 					)
 					(fill
 						(type background)
 					)
 				)
+			)
+			(symbol "TLV1117-33_1_1"
 				(pin power_in line
-					(at -15.24 0 0)
-					(length 5.08)
-					(name "VIN"
+					(at -7.62 0 0)
+					(length 2.54)
+					(name "VI"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 0 -7.62 90)
+					(length 2.54)
+					(name "GND"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -422,35 +433,17 @@
 						)
 					)
 				)
-				(pin power_in line
-					(at 0 -11.43 90)
-					(length 5.08)
-					(name "GND"
+				(pin power_out line
+					(at 7.62 0 180)
+					(length 2.54)
+					(name "VO"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "2_4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 15.24 0 180)
-					(length 5.08)
-					(name "VOUT"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
+					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -731,16 +724,6 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 93.98) (xy 156.21 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "31af008e-2992-4b13-9338-1b92a3f48ca6")
-	)
-	(wire
-		(pts
 			(xy 114.3 93.98) (xy 119.38 93.98)
 		)
 		(stroke
@@ -751,7 +734,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 93.98) (xy 123.19 93.98)
+			(xy 119.38 93.98) (xy 130.81 93.98)
 		)
 		(stroke
 			(width 0)
@@ -821,7 +804,17 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 109.22) (xy 138.43 105.41)
+			(xy 146.05 93.98) (xy 156.21 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c8772680-fbae-4e39-b419-45fac91d3f7e")
+	)
+	(wire
+		(pts
+			(xy 138.43 101.6) (xy 138.43 109.22)
 		)
 		(stroke
 			(width 0)
@@ -850,6 +843,77 @@
 			(justify left)
 		)
 		(uuid "7d4e6098-817b-4ae5-bf49-c4b89e07f75f")
+	)
+	(symbol
+		(lib_id "Regulator_Linear:TLV1117-33")
+		(at 138.43 93.98 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1cc2af6d-4ec5-412b-8d92-9112bc78d4ff")
+		(property "Reference" "U1"
+			(at 138.43 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TLV1117-33"
+			(at 138.43 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 138.43 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/tlv1117.pdf"
+			(at 138.43 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "800mA Low-Dropout Linear Regulator, 3.3V fixed output, TO-220/TO-252/TO-263/SOT-223"
+			(at 138.43 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "de4b6275-50e3-48a9-b6fa-536e63143789")
+		)
+		(pin "1"
+			(uuid "71a00c11-7093-4146-a3d6-802252c5488c")
+		)
+		(pin "2"
+			(uuid "cf72960d-a44d-487c-b6e1-23edb99fe021")
+		)
+		(instances
+			(project ""
+				(path "/44e391a9-9312-4881-bf0a-d93a44472e34/8dbe2292-b9b2-4749-8512-0e3dddbd3bdc"
+					(reference "U1")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
@@ -1186,79 +1250,6 @@
 			(project "BrainBoard"
 				(path "/44e391a9-9312-4881-bf0a-d93a44472e34/8dbe2292-b9b2-4749-8512-0e3dddbd3bdc"
 					(reference "#FLG02")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "LM2940IMPX_5.0NOPB:LM2940IMPX-5.0_NOPB")
-		(at 138.43 93.98 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "cab3e31e-f2cc-4625-9423-78196ea84562")
-		(property "Reference" "U1"
-			(at 138.43 81.28 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Value" "LM2940IMPX-5.0/NOPB"
-			(at 138.43 83.82 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Footprint" "Project Footprints:LM2940IMPX_5.0NOPB"
-			(at 138.43 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.ti.com/lit/gpn/lm2940-n"
-			(at 138.43 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 138.43 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "9095bd80-bd0a-4118-95d0-d43f88b410d3")
-		)
-		(pin "1"
-			(uuid "94d78415-8bef-4b50-9161-5cb1e842d46d")
-		)
-		(pin "2_4"
-			(uuid "584fd368-3c44-45e7-a0fe-513b1bb870a8")
-		)
-		(instances
-			(project "BrainBoard"
-				(path "/44e391a9-9312-4881-bf0a-d93a44472e34/8dbe2292-b9b2-4749-8512-0e3dddbd3bdc"
-					(reference "U1")
 					(unit 1)
 				)
 			)
