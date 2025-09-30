@@ -616,6 +616,10 @@
     [
       "8dbe2292-b9b2-4749-8512-0e3dddbd3bdc",
       "Voltage Regulator"
+    ],
+    [
+      "a7ca5693-b205-46c4-9303-bb19a96c7a61",
+      "Motor Drivers"
     ]
   ],
   "text_variables": {}
