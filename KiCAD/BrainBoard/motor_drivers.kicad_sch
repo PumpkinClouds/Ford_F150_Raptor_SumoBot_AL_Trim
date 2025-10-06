@@ -2502,7 +2502,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "WSON8_DRV8231_TEX"
+		(property "Footprint" "footprints:WSON8_DRV8231_TEX"
 			(at 97.79 50.8 0)
 			(effects
 				(font
@@ -2592,7 +2592,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "WSON8_DRV8231_TEX"
+		(property "Footprint" "footprints:WSON8_DRV8231_TEX"
 			(at 173.99 50.8 0)
 			(effects
 				(font
@@ -2889,7 +2889,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "WSON8_DRV8231_TEX"
+		(property "Footprint" "footprints:WSON8_DRV8231_TEX"
 			(at 97.79 116.84 0)
 			(effects
 				(font
@@ -3113,7 +3113,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "WSON8_DRV8231_TEX"
+		(property "Footprint" "footprints:WSON8_DRV8231_TEX"
 			(at 173.99 116.84 0)
 			(effects
 				(font
