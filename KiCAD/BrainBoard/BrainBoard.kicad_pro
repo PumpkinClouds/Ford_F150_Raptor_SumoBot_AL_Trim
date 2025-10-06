@@ -497,6 +497,7 @@
       "single_global_label": "ignore",
       "unannotated": "error",
       "unconnected_wire_endpoint": "warning",
+      "undefined_netclass": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
       "wire_dangling": "error"
@@ -677,6 +678,10 @@
     [
       "a7ca5693-b205-46c4-9303-bb19a96c7a61",
       "Motor Drivers"
+    ],
+    [
+      "d2605501-e14c-4941-bf04-a3dfdbe74b6d",
+      "STM32F303CCT6 Microcontroller"
     ]
   ],
   "text_variables": {}

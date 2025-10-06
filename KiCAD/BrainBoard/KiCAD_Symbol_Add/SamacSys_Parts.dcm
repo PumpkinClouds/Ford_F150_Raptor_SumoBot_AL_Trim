@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP NX3225SA-32.000MHZ-STD-CSR-1
+D NDK 32MHz Crystal Unit +/-15ppm SMD 4-Pin 3.2 x 2.5 x 0.55mm
+K
+F https://media.digikey.com/pdf/Data%20Sheets/NDK%20PDFs/NX3225SA.pdf
+$ENDCMP
+#
+$CMP USB4216-03-A
+D USB Connectors USB C Receptacle, Short Body, USB2.0, 16Pin, Horizontal, SMT
+K
+F 
+$ENDCMP
+#
+#End Doc Library
