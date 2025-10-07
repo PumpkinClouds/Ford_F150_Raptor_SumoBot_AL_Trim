@@ -1,0 +1,296 @@
+[
+    {
+        "command": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc -o .pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/f3/adc.o -c -Wimplicit-function-declaration -Wmissing-prototypes -Wstrict-prototypes -mthumb -mcpu=cortex-m4 -Os -ffunction-sections -fdata-sections -Wall -Wextra -Wredundant-decls -Wshadow -fno-common -mfloat-abi=hard -mfpu=fpv4-sp-d16 -DPLATFORMIO=60118 -DSTM32F3 -DSTM32F303xC -DF_CPU=72000000L -I.platformio/packages/framework-libopencm3 -I.platformio/packages/framework-libopencm3/include .platformio/packages/framework-libopencm3/lib/stm32/f3/adc.c",
+        "directory": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software",
+        "file": ".platformio/packages/framework-libopencm3/lib/stm32/f3/adc.c",
+        "output": ".pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/f3/adc.o"
+    },
+    {
+        "command": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc -o .pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/common/adc_common_v2.o -c -Wimplicit-function-declaration -Wmissing-prototypes -Wstrict-prototypes -mthumb -mcpu=cortex-m4 -Os -ffunction-sections -fdata-sections -Wall -Wextra -Wredundant-decls -Wshadow -fno-common -mfloat-abi=hard -mfpu=fpv4-sp-d16 -DPLATFORMIO=60118 -DSTM32F3 -DSTM32F303xC -DF_CPU=72000000L -I.platformio/packages/framework-libopencm3 -I.platformio/packages/framework-libopencm3/include .platformio/packages/framework-libopencm3/lib/stm32/common/adc_common_v2.c",
+        "directory": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software",
+        "file": ".platformio/packages/framework-libopencm3/lib/stm32/common/adc_common_v2.c",
+        "output": ".pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/common/adc_common_v2.o"
+    },
+    {
+        "command": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc -o .pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/common/adc_common_v2_multi.o -c -Wimplicit-function-declaration -Wmissing-prototypes -Wstrict-prototypes -mthumb -mcpu=cortex-m4 -Os -ffunction-sections -fdata-sections -Wall -Wextra -Wredundant-decls -Wshadow -fno-common -mfloat-abi=hard -mfpu=fpv4-sp-d16 -DPLATFORMIO=60118 -DSTM32F3 -DSTM32F303xC -DF_CPU=72000000L -I.platformio/packages/framework-libopencm3 -I.platformio/packages/framework-libopencm3/include .platformio/packages/framework-libopencm3/lib/stm32/common/adc_common_v2_multi.c",
+        "directory": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software",
+        "file": ".platformio/packages/framework-libopencm3/lib/stm32/common/adc_common_v2_multi.c",
+        "output": ".pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/common/adc_common_v2_multi.o"
+    },
+    {
+        "command": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc -o .pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/can.o -c -Wimplicit-function-declaration -Wmissing-prototypes -Wstrict-prototypes -mthumb -mcpu=cortex-m4 -Os -ffunction-sections -fdata-sections -Wall -Wextra -Wredundant-decls -Wshadow -fno-common -mfloat-abi=hard -mfpu=fpv4-sp-d16 -DPLATFORMIO=60118 -DSTM32F3 -DSTM32F303xC -DF_CPU=72000000L -I.platformio/packages/framework-libopencm3 -I.platformio/packages/framework-libopencm3/include .platformio/packages/framework-libopencm3/lib/stm32/can.c",
+        "directory": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software",
+        "file": ".platformio/packages/framework-libopencm3/lib/stm32/can.c",
+        "output": ".pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/can.o"
+    },
+    {
+        "command": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc -o .pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/common/crc_common_all.o -c -Wimplicit-function-declaration -Wmissing-prototypes -Wstrict-prototypes -mthumb -mcpu=cortex-m4 -Os -ffunction-sections -fdata-sections -Wall -Wextra -Wredundant-decls -Wshadow -fno-common -mfloat-abi=hard -mfpu=fpv4-sp-d16 -DPLATFORMIO=60118 -DSTM32F3 -DSTM32F303xC -DF_CPU=72000000L -I.platformio/packages/framework-libopencm3 -I.platformio/packages/framework-libopencm3/include .platformio/packages/framework-libopencm3/lib/stm32/common/crc_common_all.c",
+        "directory": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software",
+        "file": ".platformio/packages/framework-libopencm3/lib/stm32/common/crc_common_all.c",
+        "output": ".pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/common/crc_common_all.o"
+    },
+    {
+        "command": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc -o .pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/common/crc_v2.o -c -Wimplicit-function-declaration -Wmissing-prototypes -Wstrict-prototypes -mthumb -mcpu=cortex-m4 -Os -ffunction-sections -fdata-sections -Wall -Wextra -Wredundant-decls -Wshadow -fno-common -mfloat-abi=hard -mfpu=fpv4-sp-d16 -DPLATFORMIO=60118 -DSTM32F3 -DSTM32F303xC -DF_CPU=72000000L -I.platformio/packages/framework-libopencm3 -I.platformio/packages/framework-libopencm3/include .platformio/packages/framework-libopencm3/lib/stm32/common/crc_v2.c",
+        "directory": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software",
+        "file": ".platformio/packages/framework-libopencm3/lib/stm32/common/crc_v2.c",
+        "output": ".pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/common/crc_v2.o"
+    },
+    {
+        "command": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc -o .pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/common/dac_common_all.o -c -Wimplicit-function-declaration -Wmissing-prototypes -Wstrict-prototypes -mthumb -mcpu=cortex-m4 -Os -ffunction-sections -fdata-sections -Wall -Wextra -Wredundant-decls -Wshadow -fno-common -mfloat-abi=hard -mfpu=fpv4-sp-d16 -DPLATFORMIO=60118 -DSTM32F3 -DSTM32F303xC -DF_CPU=72000000L -I.platformio/packages/framework-libopencm3 -I.platformio/packages/framework-libopencm3/include .platformio/packages/framework-libopencm3/lib/stm32/common/dac_common_all.c",
+        "directory": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software",
+        "file": ".platformio/packages/framework-libopencm3/lib/stm32/common/dac_common_all.c",
+        "output": ".pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/common/dac_common_all.o"
+    },
+    {
+        "command": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc -o .pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/common/dac_common_v1.o -c -Wimplicit-function-declaration -Wmissing-prototypes -Wstrict-prototypes -mthumb -mcpu=cortex-m4 -Os -ffunction-sections -fdata-sections -Wall -Wextra -Wredundant-decls -Wshadow -fno-common -mfloat-abi=hard -mfpu=fpv4-sp-d16 -DPLATFORMIO=60118 -DSTM32F3 -DSTM32F303xC -DF_CPU=72000000L -I.platformio/packages/framework-libopencm3 -I.platformio/packages/framework-libopencm3/include .platformio/packages/framework-libopencm3/lib/stm32/common/dac_common_v1.c",
+        "directory": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software",
+        "file": ".platformio/packages/framework-libopencm3/lib/stm32/common/dac_common_v1.c",
+        "output": ".pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/common/dac_common_v1.o"
+    },
+    {
+        "command": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc -o .pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/common/desig_common_all.o -c -Wimplicit-function-declaration -Wmissing-prototypes -Wstrict-prototypes -mthumb -mcpu=cortex-m4 -Os -ffunction-sections -fdata-sections -Wall -Wextra -Wredundant-decls -Wshadow -fno-common -mfloat-abi=hard -mfpu=fpv4-sp-d16 -DPLATFORMIO=60118 -DSTM32F3 -DSTM32F303xC -DF_CPU=72000000L -I.platformio/packages/framework-libopencm3 -I.platformio/packages/framework-libopencm3/include .platformio/packages/framework-libopencm3/lib/stm32/common/desig_common_all.c",
+        "directory": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software",
+        "file": ".platformio/packages/framework-libopencm3/lib/stm32/common/desig_common_all.c",
+        "output": ".pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/common/desig_common_all.o"
+    },
+    {
+        "command": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc -o .pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/common/desig_common_v1.o -c -Wimplicit-function-declaration -Wmissing-prototypes -Wstrict-prototypes -mthumb -mcpu=cortex-m4 -Os -ffunction-sections -fdata-sections -Wall -Wextra -Wredundant-decls -Wshadow -fno-common -mfloat-abi=hard -mfpu=fpv4-sp-d16 -DPLATFORMIO=60118 -DSTM32F3 -DSTM32F303xC -DF_CPU=72000000L -I.platformio/packages/framework-libopencm3 -I.platformio/packages/framework-libopencm3/include .platformio/packages/framework-libopencm3/lib/stm32/common/desig_common_v1.c",
+        "directory": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software",
+        "file": ".platformio/packages/framework-libopencm3/lib/stm32/common/desig_common_v1.c",
+        "output": ".pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/common/desig_common_v1.o"
+    },
+    {
+        "command": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc -o .pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/common/dma_common_l1f013.o -c -Wimplicit-function-declaration -Wmissing-prototypes -Wstrict-prototypes -mthumb -mcpu=cortex-m4 -Os -ffunction-sections -fdata-sections -Wall -Wextra -Wredundant-decls -Wshadow -fno-common -mfloat-abi=hard -mfpu=fpv4-sp-d16 -DPLATFORMIO=60118 -DSTM32F3 -DSTM32F303xC -DF_CPU=72000000L -I.platformio/packages/framework-libopencm3 -I.platformio/packages/framework-libopencm3/include .platformio/packages/framework-libopencm3/lib/stm32/common/dma_common_l1f013.c",
+        "directory": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software",
+        "file": ".platformio/packages/framework-libopencm3/lib/stm32/common/dma_common_l1f013.c",
+        "output": ".pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/common/dma_common_l1f013.o"
+    },
+    {
+        "command": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc -o .pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/common/exti_common_all.o -c -Wimplicit-function-declaration -Wmissing-prototypes -Wstrict-prototypes -mthumb -mcpu=cortex-m4 -Os -ffunction-sections -fdata-sections -Wall -Wextra -Wredundant-decls -Wshadow -fno-common -mfloat-abi=hard -mfpu=fpv4-sp-d16 -DPLATFORMIO=60118 -DSTM32F3 -DSTM32F303xC -DF_CPU=72000000L -I.platformio/packages/framework-libopencm3 -I.platformio/packages/framework-libopencm3/include .platformio/packages/framework-libopencm3/lib/stm32/common/exti_common_all.c",
+        "directory": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software",
+        "file": ".platformio/packages/framework-libopencm3/lib/stm32/common/exti_common_all.c",
+        "output": ".pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/common/exti_common_all.o"
+    },
+    {
+        "command": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc -o .pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/f3/flash.o -c -Wimplicit-function-declaration -Wmissing-prototypes -Wstrict-prototypes -mthumb -mcpu=cortex-m4 -Os -ffunction-sections -fdata-sections -Wall -Wextra -Wredundant-decls -Wshadow -fno-common -mfloat-abi=hard -mfpu=fpv4-sp-d16 -DPLATFORMIO=60118 -DSTM32F3 -DSTM32F303xC -DF_CPU=72000000L -I.platformio/packages/framework-libopencm3 -I.platformio/packages/framework-libopencm3/include .platformio/packages/framework-libopencm3/lib/stm32/f3/flash.c",
+        "directory": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software",
+        "file": ".platformio/packages/framework-libopencm3/lib/stm32/f3/flash.c",
+        "output": ".pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/f3/flash.o"
+    },
+    {
+        "command": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc -o .pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/common/flash_common_all.o -c -Wimplicit-function-declaration -Wmissing-prototypes -Wstrict-prototypes -mthumb -mcpu=cortex-m4 -Os -ffunction-sections -fdata-sections -Wall -Wextra -Wredundant-decls -Wshadow -fno-common -mfloat-abi=hard -mfpu=fpv4-sp-d16 -DPLATFORMIO=60118 -DSTM32F3 -DSTM32F303xC -DF_CPU=72000000L -I.platformio/packages/framework-libopencm3 -I.platformio/packages/framework-libopencm3/include .platformio/packages/framework-libopencm3/lib/stm32/common/flash_common_all.c",
+        "directory": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software",
+        "file": ".platformio/packages/framework-libopencm3/lib/stm32/common/flash_common_all.c",
+        "output": ".pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/common/flash_common_all.o"
+    },
+    {
+        "command": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc -o .pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/common/flash_common_f.o -c -Wimplicit-function-declaration -Wmissing-prototypes -Wstrict-prototypes -mthumb -mcpu=cortex-m4 -Os -ffunction-sections -fdata-sections -Wall -Wextra -Wredundant-decls -Wshadow -fno-common -mfloat-abi=hard -mfpu=fpv4-sp-d16 -DPLATFORMIO=60118 -DSTM32F3 -DSTM32F303xC -DF_CPU=72000000L -I.platformio/packages/framework-libopencm3 -I.platformio/packages/framework-libopencm3/include .platformio/packages/framework-libopencm3/lib/stm32/common/flash_common_f.c",
+        "directory": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software",
+        "file": ".platformio/packages/framework-libopencm3/lib/stm32/common/flash_common_f.c",
+        "output": ".pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/common/flash_common_f.o"
+    },
+    {
+        "command": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc -o .pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/common/gpio_common_all.o -c -Wimplicit-function-declaration -Wmissing-prototypes -Wstrict-prototypes -mthumb -mcpu=cortex-m4 -Os -ffunction-sections -fdata-sections -Wall -Wextra -Wredundant-decls -Wshadow -fno-common -mfloat-abi=hard -mfpu=fpv4-sp-d16 -DPLATFORMIO=60118 -DSTM32F3 -DSTM32F303xC -DF_CPU=72000000L -I.platformio/packages/framework-libopencm3 -I.platformio/packages/framework-libopencm3/include .platformio/packages/framework-libopencm3/lib/stm32/common/gpio_common_all.c",
+        "directory": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software",
+        "file": ".platformio/packages/framework-libopencm3/lib/stm32/common/gpio_common_all.c",
+        "output": ".pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/common/gpio_common_all.o"
+    },
+    {
+        "command": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc -o .pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/common/gpio_common_f0234.o -c -Wimplicit-function-declaration -Wmissing-prototypes -Wstrict-prototypes -mthumb -mcpu=cortex-m4 -Os -ffunction-sections -fdata-sections -Wall -Wextra -Wredundant-decls -Wshadow -fno-common -mfloat-abi=hard -mfpu=fpv4-sp-d16 -DPLATFORMIO=60118 -DSTM32F3 -DSTM32F303xC -DF_CPU=72000000L -I.platformio/packages/framework-libopencm3 -I.platformio/packages/framework-libopencm3/include .platformio/packages/framework-libopencm3/lib/stm32/common/gpio_common_f0234.c",
+        "directory": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software",
+        "file": ".platformio/packages/framework-libopencm3/lib/stm32/common/gpio_common_f0234.c",
+        "output": ".pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/common/gpio_common_f0234.o"
+    },
+    {
+        "command": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc -o .pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/common/i2c_common_v2.o -c -Wimplicit-function-declaration -Wmissing-prototypes -Wstrict-prototypes -mthumb -mcpu=cortex-m4 -Os -ffunction-sections -fdata-sections -Wall -Wextra -Wredundant-decls -Wshadow -fno-common -mfloat-abi=hard -mfpu=fpv4-sp-d16 -DPLATFORMIO=60118 -DSTM32F3 -DSTM32F303xC -DF_CPU=72000000L -I.platformio/packages/framework-libopencm3 -I.platformio/packages/framework-libopencm3/include .platformio/packages/framework-libopencm3/lib/stm32/common/i2c_common_v2.c",
+        "directory": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software",
+        "file": ".platformio/packages/framework-libopencm3/lib/stm32/common/i2c_common_v2.c",
+        "output": ".pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/common/i2c_common_v2.o"
+    },
+    {
+        "command": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc -o .pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/common/iwdg_common_all.o -c -Wimplicit-function-declaration -Wmissing-prototypes -Wstrict-prototypes -mthumb -mcpu=cortex-m4 -Os -ffunction-sections -fdata-sections -Wall -Wextra -Wredundant-decls -Wshadow -fno-common -mfloat-abi=hard -mfpu=fpv4-sp-d16 -DPLATFORMIO=60118 -DSTM32F3 -DSTM32F303xC -DF_CPU=72000000L -I.platformio/packages/framework-libopencm3 -I.platformio/packages/framework-libopencm3/include .platformio/packages/framework-libopencm3/lib/stm32/common/iwdg_common_all.c",
+        "directory": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software",
+        "file": ".platformio/packages/framework-libopencm3/lib/stm32/common/iwdg_common_all.c",
+        "output": ".pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/common/iwdg_common_all.o"
+    },
+    {
+        "command": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc -o .pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/common/opamp_common_all.o -c -Wimplicit-function-declaration -Wmissing-prototypes -Wstrict-prototypes -mthumb -mcpu=cortex-m4 -Os -ffunction-sections -fdata-sections -Wall -Wextra -Wredundant-decls -Wshadow -fno-common -mfloat-abi=hard -mfpu=fpv4-sp-d16 -DPLATFORMIO=60118 -DSTM32F3 -DSTM32F303xC -DF_CPU=72000000L -I.platformio/packages/framework-libopencm3 -I.platformio/packages/framework-libopencm3/include .platformio/packages/framework-libopencm3/lib/stm32/common/opamp_common_all.c",
+        "directory": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software",
+        "file": ".platformio/packages/framework-libopencm3/lib/stm32/common/opamp_common_all.c",
+        "output": ".pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/common/opamp_common_all.o"
+    },
+    {
+        "command": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc -o .pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/common/opamp_common_v1.o -c -Wimplicit-function-declaration -Wmissing-prototypes -Wstrict-prototypes -mthumb -mcpu=cortex-m4 -Os -ffunction-sections -fdata-sections -Wall -Wextra -Wredundant-decls -Wshadow -fno-common -mfloat-abi=hard -mfpu=fpv4-sp-d16 -DPLATFORMIO=60118 -DSTM32F3 -DSTM32F303xC -DF_CPU=72000000L -I.platformio/packages/framework-libopencm3 -I.platformio/packages/framework-libopencm3/include .platformio/packages/framework-libopencm3/lib/stm32/common/opamp_common_v1.c",
+        "directory": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software",
+        "file": ".platformio/packages/framework-libopencm3/lib/stm32/common/opamp_common_v1.c",
+        "output": ".pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/common/opamp_common_v1.o"
+    },
+    {
+        "command": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc -o .pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/common/pwr_common_v1.o -c -Wimplicit-function-declaration -Wmissing-prototypes -Wstrict-prototypes -mthumb -mcpu=cortex-m4 -Os -ffunction-sections -fdata-sections -Wall -Wextra -Wredundant-decls -Wshadow -fno-common -mfloat-abi=hard -mfpu=fpv4-sp-d16 -DPLATFORMIO=60118 -DSTM32F3 -DSTM32F303xC -DF_CPU=72000000L -I.platformio/packages/framework-libopencm3 -I.platformio/packages/framework-libopencm3/include .platformio/packages/framework-libopencm3/lib/stm32/common/pwr_common_v1.c",
+        "directory": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software",
+        "file": ".platformio/packages/framework-libopencm3/lib/stm32/common/pwr_common_v1.c",
+        "output": ".pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/common/pwr_common_v1.o"
+    },
+    {
+        "command": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc -o .pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/f3/rcc.o -c -Wimplicit-function-declaration -Wmissing-prototypes -Wstrict-prototypes -mthumb -mcpu=cortex-m4 -Os -ffunction-sections -fdata-sections -Wall -Wextra -Wredundant-decls -Wshadow -fno-common -mfloat-abi=hard -mfpu=fpv4-sp-d16 -DPLATFORMIO=60118 -DSTM32F3 -DSTM32F303xC -DF_CPU=72000000L -I.platformio/packages/framework-libopencm3 -I.platformio/packages/framework-libopencm3/include .platformio/packages/framework-libopencm3/lib/stm32/f3/rcc.c",
+        "directory": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software",
+        "file": ".platformio/packages/framework-libopencm3/lib/stm32/f3/rcc.c",
+        "output": ".pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/f3/rcc.o"
+    },
+    {
+        "command": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc -o .pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/common/rcc_common_all.o -c -Wimplicit-function-declaration -Wmissing-prototypes -Wstrict-prototypes -mthumb -mcpu=cortex-m4 -Os -ffunction-sections -fdata-sections -Wall -Wextra -Wredundant-decls -Wshadow -fno-common -mfloat-abi=hard -mfpu=fpv4-sp-d16 -DPLATFORMIO=60118 -DSTM32F3 -DSTM32F303xC -DF_CPU=72000000L -I.platformio/packages/framework-libopencm3 -I.platformio/packages/framework-libopencm3/include .platformio/packages/framework-libopencm3/lib/stm32/common/rcc_common_all.c",
+        "directory": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software",
+        "file": ".platformio/packages/framework-libopencm3/lib/stm32/common/rcc_common_all.c",
+        "output": ".pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/common/rcc_common_all.o"
+    },
+    {
+        "command": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc -o .pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/common/rtc_common_l1f024.o -c -Wimplicit-function-declaration -Wmissing-prototypes -Wstrict-prototypes -mthumb -mcpu=cortex-m4 -Os -ffunction-sections -fdata-sections -Wall -Wextra -Wredundant-decls -Wshadow -fno-common -mfloat-abi=hard -mfpu=fpv4-sp-d16 -DPLATFORMIO=60118 -DSTM32F3 -DSTM32F303xC -DF_CPU=72000000L -I.platformio/packages/framework-libopencm3 -I.platformio/packages/framework-libopencm3/include .platformio/packages/framework-libopencm3/lib/stm32/common/rtc_common_l1f024.c",
+        "directory": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software",
+        "file": ".platformio/packages/framework-libopencm3/lib/stm32/common/rtc_common_l1f024.c",
+        "output": ".pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/common/rtc_common_l1f024.o"
+    },
+    {
+        "command": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc -o .pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/common/spi_common_all.o -c -Wimplicit-function-declaration -Wmissing-prototypes -Wstrict-prototypes -mthumb -mcpu=cortex-m4 -Os -ffunction-sections -fdata-sections -Wall -Wextra -Wredundant-decls -Wshadow -fno-common -mfloat-abi=hard -mfpu=fpv4-sp-d16 -DPLATFORMIO=60118 -DSTM32F3 -DSTM32F303xC -DF_CPU=72000000L -I.platformio/packages/framework-libopencm3 -I.platformio/packages/framework-libopencm3/include .platformio/packages/framework-libopencm3/lib/stm32/common/spi_common_all.c",
+        "directory": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software",
+        "file": ".platformio/packages/framework-libopencm3/lib/stm32/common/spi_common_all.c",
+        "output": ".pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/common/spi_common_all.o"
+    },
+    {
+        "command": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc -o .pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/common/spi_common_v2.o -c -Wimplicit-function-declaration -Wmissing-prototypes -Wstrict-prototypes -mthumb -mcpu=cortex-m4 -Os -ffunction-sections -fdata-sections -Wall -Wextra -Wredundant-decls -Wshadow -fno-common -mfloat-abi=hard -mfpu=fpv4-sp-d16 -DPLATFORMIO=60118 -DSTM32F3 -DSTM32F303xC -DF_CPU=72000000L -I.platformio/packages/framework-libopencm3 -I.platformio/packages/framework-libopencm3/include .platformio/packages/framework-libopencm3/lib/stm32/common/spi_common_v2.c",
+        "directory": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software",
+        "file": ".platformio/packages/framework-libopencm3/lib/stm32/common/spi_common_v2.c",
+        "output": ".pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/common/spi_common_v2.o"
+    },
+    {
+        "command": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc -o .pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/common/timer_common_all.o -c -Wimplicit-function-declaration -Wmissing-prototypes -Wstrict-prototypes -mthumb -mcpu=cortex-m4 -Os -ffunction-sections -fdata-sections -Wall -Wextra -Wredundant-decls -Wshadow -fno-common -mfloat-abi=hard -mfpu=fpv4-sp-d16 -DPLATFORMIO=60118 -DSTM32F3 -DSTM32F303xC -DF_CPU=72000000L -I.platformio/packages/framework-libopencm3 -I.platformio/packages/framework-libopencm3/include .platformio/packages/framework-libopencm3/lib/stm32/common/timer_common_all.c",
+        "directory": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software",
+        "file": ".platformio/packages/framework-libopencm3/lib/stm32/common/timer_common_all.c",
+        "output": ".pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/common/timer_common_all.o"
+    },
+    {
+        "command": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc -o .pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/common/timer_common_f0234.o -c -Wimplicit-function-declaration -Wmissing-prototypes -Wstrict-prototypes -mthumb -mcpu=cortex-m4 -Os -ffunction-sections -fdata-sections -Wall -Wextra -Wredundant-decls -Wshadow -fno-common -mfloat-abi=hard -mfpu=fpv4-sp-d16 -DPLATFORMIO=60118 -DSTM32F3 -DSTM32F303xC -DF_CPU=72000000L -I.platformio/packages/framework-libopencm3 -I.platformio/packages/framework-libopencm3/include .platformio/packages/framework-libopencm3/lib/stm32/common/timer_common_f0234.c",
+        "directory": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software",
+        "file": ".platformio/packages/framework-libopencm3/lib/stm32/common/timer_common_f0234.c",
+        "output": ".pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/common/timer_common_f0234.o"
+    },
+    {
+        "command": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc -o .pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/common/usart_common_v2.o -c -Wimplicit-function-declaration -Wmissing-prototypes -Wstrict-prototypes -mthumb -mcpu=cortex-m4 -Os -ffunction-sections -fdata-sections -Wall -Wextra -Wredundant-decls -Wshadow -fno-common -mfloat-abi=hard -mfpu=fpv4-sp-d16 -DPLATFORMIO=60118 -DSTM32F3 -DSTM32F303xC -DF_CPU=72000000L -I.platformio/packages/framework-libopencm3 -I.platformio/packages/framework-libopencm3/include .platformio/packages/framework-libopencm3/lib/stm32/common/usart_common_v2.c",
+        "directory": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software",
+        "file": ".platformio/packages/framework-libopencm3/lib/stm32/common/usart_common_v2.c",
+        "output": ".pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/common/usart_common_v2.o"
+    },
+    {
+        "command": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc -o .pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/common/usart_common_all.o -c -Wimplicit-function-declaration -Wmissing-prototypes -Wstrict-prototypes -mthumb -mcpu=cortex-m4 -Os -ffunction-sections -fdata-sections -Wall -Wextra -Wredundant-decls -Wshadow -fno-common -mfloat-abi=hard -mfpu=fpv4-sp-d16 -DPLATFORMIO=60118 -DSTM32F3 -DSTM32F303xC -DF_CPU=72000000L -I.platformio/packages/framework-libopencm3 -I.platformio/packages/framework-libopencm3/include .platformio/packages/framework-libopencm3/lib/stm32/common/usart_common_all.c",
+        "directory": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software",
+        "file": ".platformio/packages/framework-libopencm3/lib/stm32/common/usart_common_all.c",
+        "output": ".pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/common/usart_common_all.o"
+    },
+    {
+        "command": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc -o .pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/usb/usb.o -c -Wimplicit-function-declaration -Wmissing-prototypes -Wstrict-prototypes -mthumb -mcpu=cortex-m4 -Os -ffunction-sections -fdata-sections -Wall -Wextra -Wredundant-decls -Wshadow -fno-common -mfloat-abi=hard -mfpu=fpv4-sp-d16 -DPLATFORMIO=60118 -DSTM32F3 -DSTM32F303xC -DF_CPU=72000000L -I.platformio/packages/framework-libopencm3 -I.platformio/packages/framework-libopencm3/include .platformio/packages/framework-libopencm3/lib/usb/usb.c",
+        "directory": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software",
+        "file": ".platformio/packages/framework-libopencm3/lib/usb/usb.c",
+        "output": ".pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/usb/usb.o"
+    },
+    {
+        "command": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc -o .pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/usb/usb_control.o -c -Wimplicit-function-declaration -Wmissing-prototypes -Wstrict-prototypes -mthumb -mcpu=cortex-m4 -Os -ffunction-sections -fdata-sections -Wall -Wextra -Wredundant-decls -Wshadow -fno-common -mfloat-abi=hard -mfpu=fpv4-sp-d16 -DPLATFORMIO=60118 -DSTM32F3 -DSTM32F303xC -DF_CPU=72000000L -I.platformio/packages/framework-libopencm3 -I.platformio/packages/framework-libopencm3/include .platformio/packages/framework-libopencm3/lib/usb/usb_control.c",
+        "directory": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software",
+        "file": ".platformio/packages/framework-libopencm3/lib/usb/usb_control.c",
+        "output": ".pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/usb/usb_control.o"
+    },
+    {
+        "command": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc -o .pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/usb/usb_standard.o -c -Wimplicit-function-declaration -Wmissing-prototypes -Wstrict-prototypes -mthumb -mcpu=cortex-m4 -Os -ffunction-sections -fdata-sections -Wall -Wextra -Wredundant-decls -Wshadow -fno-common -mfloat-abi=hard -mfpu=fpv4-sp-d16 -DPLATFORMIO=60118 -DSTM32F3 -DSTM32F303xC -DF_CPU=72000000L -I.platformio/packages/framework-libopencm3 -I.platformio/packages/framework-libopencm3/include .platformio/packages/framework-libopencm3/lib/usb/usb_standard.c",
+        "directory": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software",
+        "file": ".platformio/packages/framework-libopencm3/lib/usb/usb_standard.c",
+        "output": ".pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/usb/usb_standard.o"
+    },
+    {
+        "command": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc -o .pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/usb/usb_msc.o -c -Wimplicit-function-declaration -Wmissing-prototypes -Wstrict-prototypes -mthumb -mcpu=cortex-m4 -Os -ffunction-sections -fdata-sections -Wall -Wextra -Wredundant-decls -Wshadow -fno-common -mfloat-abi=hard -mfpu=fpv4-sp-d16 -DPLATFORMIO=60118 -DSTM32F3 -DSTM32F303xC -DF_CPU=72000000L -I.platformio/packages/framework-libopencm3 -I.platformio/packages/framework-libopencm3/include .platformio/packages/framework-libopencm3/lib/usb/usb_msc.c",
+        "directory": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software",
+        "file": ".platformio/packages/framework-libopencm3/lib/usb/usb_msc.c",
+        "output": ".pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/usb/usb_msc.o"
+    },
+    {
+        "command": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc -o .pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/usb/usb_hid.o -c -Wimplicit-function-declaration -Wmissing-prototypes -Wstrict-prototypes -mthumb -mcpu=cortex-m4 -Os -ffunction-sections -fdata-sections -Wall -Wextra -Wredundant-decls -Wshadow -fno-common -mfloat-abi=hard -mfpu=fpv4-sp-d16 -DPLATFORMIO=60118 -DSTM32F3 -DSTM32F303xC -DF_CPU=72000000L -I.platformio/packages/framework-libopencm3 -I.platformio/packages/framework-libopencm3/include .platformio/packages/framework-libopencm3/lib/usb/usb_hid.c",
+        "directory": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software",
+        "file": ".platformio/packages/framework-libopencm3/lib/usb/usb_hid.c",
+        "output": ".pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/usb/usb_hid.o"
+    },
+    {
+        "command": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc -o .pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/usb/usb_audio.o -c -Wimplicit-function-declaration -Wmissing-prototypes -Wstrict-prototypes -mthumb -mcpu=cortex-m4 -Os -ffunction-sections -fdata-sections -Wall -Wextra -Wredundant-decls -Wshadow -fno-common -mfloat-abi=hard -mfpu=fpv4-sp-d16 -DPLATFORMIO=60118 -DSTM32F3 -DSTM32F303xC -DF_CPU=72000000L -I.platformio/packages/framework-libopencm3 -I.platformio/packages/framework-libopencm3/include .platformio/packages/framework-libopencm3/lib/usb/usb_audio.c",
+        "directory": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software",
+        "file": ".platformio/packages/framework-libopencm3/lib/usb/usb_audio.c",
+        "output": ".pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/usb/usb_audio.o"
+    },
+    {
+        "command": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc -o .pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/usb/usb_cdc.o -c -Wimplicit-function-declaration -Wmissing-prototypes -Wstrict-prototypes -mthumb -mcpu=cortex-m4 -Os -ffunction-sections -fdata-sections -Wall -Wextra -Wredundant-decls -Wshadow -fno-common -mfloat-abi=hard -mfpu=fpv4-sp-d16 -DPLATFORMIO=60118 -DSTM32F3 -DSTM32F303xC -DF_CPU=72000000L -I.platformio/packages/framework-libopencm3 -I.platformio/packages/framework-libopencm3/include .platformio/packages/framework-libopencm3/lib/usb/usb_cdc.c",
+        "directory": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software",
+        "file": ".platformio/packages/framework-libopencm3/lib/usb/usb_cdc.c",
+        "output": ".pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/usb/usb_cdc.o"
+    },
+    {
+        "command": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc -o .pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/usb/usb_midi.o -c -Wimplicit-function-declaration -Wmissing-prototypes -Wstrict-prototypes -mthumb -mcpu=cortex-m4 -Os -ffunction-sections -fdata-sections -Wall -Wextra -Wredundant-decls -Wshadow -fno-common -mfloat-abi=hard -mfpu=fpv4-sp-d16 -DPLATFORMIO=60118 -DSTM32F3 -DSTM32F303xC -DF_CPU=72000000L -I.platformio/packages/framework-libopencm3 -I.platformio/packages/framework-libopencm3/include .platformio/packages/framework-libopencm3/lib/usb/usb_midi.c",
+        "directory": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software",
+        "file": ".platformio/packages/framework-libopencm3/lib/usb/usb_midi.c",
+        "output": ".pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/usb/usb_midi.o"
+    },
+    {
+        "command": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc -o .pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/common/st_usbfs_core.o -c -Wimplicit-function-declaration -Wmissing-prototypes -Wstrict-prototypes -mthumb -mcpu=cortex-m4 -Os -ffunction-sections -fdata-sections -Wall -Wextra -Wredundant-decls -Wshadow -fno-common -mfloat-abi=hard -mfpu=fpv4-sp-d16 -DPLATFORMIO=60118 -DSTM32F3 -DSTM32F303xC -DF_CPU=72000000L -I.platformio/packages/framework-libopencm3 -I.platformio/packages/framework-libopencm3/include .platformio/packages/framework-libopencm3/lib/stm32/common/st_usbfs_core.c",
+        "directory": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software",
+        "file": ".platformio/packages/framework-libopencm3/lib/stm32/common/st_usbfs_core.c",
+        "output": ".pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/common/st_usbfs_core.o"
+    },
+    {
+        "command": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc -o .pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/st_usbfs_v1.o -c -Wimplicit-function-declaration -Wmissing-prototypes -Wstrict-prototypes -mthumb -mcpu=cortex-m4 -Os -ffunction-sections -fdata-sections -Wall -Wextra -Wredundant-decls -Wshadow -fno-common -mfloat-abi=hard -mfpu=fpv4-sp-d16 -DPLATFORMIO=60118 -DSTM32F3 -DSTM32F303xC -DF_CPU=72000000L -I.platformio/packages/framework-libopencm3 -I.platformio/packages/framework-libopencm3/include .platformio/packages/framework-libopencm3/lib/stm32/st_usbfs_v1.c",
+        "directory": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software",
+        "file": ".platformio/packages/framework-libopencm3/lib/stm32/st_usbfs_v1.c",
+        "output": ".pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/stm32/st_usbfs_v1.o"
+    },
+    {
+        "command": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc -o .pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/cm3/vector.o -c -Wimplicit-function-declaration -Wmissing-prototypes -Wstrict-prototypes -mthumb -mcpu=cortex-m4 -Os -ffunction-sections -fdata-sections -Wall -Wextra -Wredundant-decls -Wshadow -fno-common -mfloat-abi=hard -mfpu=fpv4-sp-d16 -DPLATFORMIO=60118 -DSTM32F3 -DSTM32F303xC -DF_CPU=72000000L -I.platformio/packages/framework-libopencm3 -I.platformio/packages/framework-libopencm3/include .platformio/packages/framework-libopencm3/lib/cm3/vector.c",
+        "directory": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software",
+        "file": ".platformio/packages/framework-libopencm3/lib/cm3/vector.c",
+        "output": ".pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/cm3/vector.o"
+    },
+    {
+        "command": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc -o .pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/cm3/systick.o -c -Wimplicit-function-declaration -Wmissing-prototypes -Wstrict-prototypes -mthumb -mcpu=cortex-m4 -Os -ffunction-sections -fdata-sections -Wall -Wextra -Wredundant-decls -Wshadow -fno-common -mfloat-abi=hard -mfpu=fpv4-sp-d16 -DPLATFORMIO=60118 -DSTM32F3 -DSTM32F303xC -DF_CPU=72000000L -I.platformio/packages/framework-libopencm3 -I.platformio/packages/framework-libopencm3/include .platformio/packages/framework-libopencm3/lib/cm3/systick.c",
+        "directory": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software",
+        "file": ".platformio/packages/framework-libopencm3/lib/cm3/systick.c",
+        "output": ".pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/cm3/systick.o"
+    },
+    {
+        "command": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc -o .pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/cm3/scb.o -c -Wimplicit-function-declaration -Wmissing-prototypes -Wstrict-prototypes -mthumb -mcpu=cortex-m4 -Os -ffunction-sections -fdata-sections -Wall -Wextra -Wredundant-decls -Wshadow -fno-common -mfloat-abi=hard -mfpu=fpv4-sp-d16 -DPLATFORMIO=60118 -DSTM32F3 -DSTM32F303xC -DF_CPU=72000000L -I.platformio/packages/framework-libopencm3 -I.platformio/packages/framework-libopencm3/include .platformio/packages/framework-libopencm3/lib/cm3/scb.c",
+        "directory": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software",
+        "file": ".platformio/packages/framework-libopencm3/lib/cm3/scb.c",
+        "output": ".pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/cm3/scb.o"
+    },
+    {
+        "command": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc -o .pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/cm3/nvic.o -c -Wimplicit-function-declaration -Wmissing-prototypes -Wstrict-prototypes -mthumb -mcpu=cortex-m4 -Os -ffunction-sections -fdata-sections -Wall -Wextra -Wredundant-decls -Wshadow -fno-common -mfloat-abi=hard -mfpu=fpv4-sp-d16 -DPLATFORMIO=60118 -DSTM32F3 -DSTM32F303xC -DF_CPU=72000000L -I.platformio/packages/framework-libopencm3 -I.platformio/packages/framework-libopencm3/include .platformio/packages/framework-libopencm3/lib/cm3/nvic.c",
+        "directory": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software",
+        "file": ".platformio/packages/framework-libopencm3/lib/cm3/nvic.c",
+        "output": ".pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/cm3/nvic.o"
+    },
+    {
+        "command": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc -o .pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/cm3/assert.o -c -Wimplicit-function-declaration -Wmissing-prototypes -Wstrict-prototypes -mthumb -mcpu=cortex-m4 -Os -ffunction-sections -fdata-sections -Wall -Wextra -Wredundant-decls -Wshadow -fno-common -mfloat-abi=hard -mfpu=fpv4-sp-d16 -DPLATFORMIO=60118 -DSTM32F3 -DSTM32F303xC -DF_CPU=72000000L -I.platformio/packages/framework-libopencm3 -I.platformio/packages/framework-libopencm3/include .platformio/packages/framework-libopencm3/lib/cm3/assert.c",
+        "directory": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software",
+        "file": ".platformio/packages/framework-libopencm3/lib/cm3/assert.c",
+        "output": ".pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/cm3/assert.o"
+    },
+    {
+        "command": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc -o .pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/cm3/sync.o -c -Wimplicit-function-declaration -Wmissing-prototypes -Wstrict-prototypes -mthumb -mcpu=cortex-m4 -Os -ffunction-sections -fdata-sections -Wall -Wextra -Wredundant-decls -Wshadow -fno-common -mfloat-abi=hard -mfpu=fpv4-sp-d16 -DPLATFORMIO=60118 -DSTM32F3 -DSTM32F303xC -DF_CPU=72000000L -I.platformio/packages/framework-libopencm3 -I.platformio/packages/framework-libopencm3/include .platformio/packages/framework-libopencm3/lib/cm3/sync.c",
+        "directory": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software",
+        "file": ".platformio/packages/framework-libopencm3/lib/cm3/sync.c",
+        "output": ".pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/cm3/sync.o"
+    },
+    {
+        "command": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc -o .pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/cm3/dwt.o -c -Wimplicit-function-declaration -Wmissing-prototypes -Wstrict-prototypes -mthumb -mcpu=cortex-m4 -Os -ffunction-sections -fdata-sections -Wall -Wextra -Wredundant-decls -Wshadow -fno-common -mfloat-abi=hard -mfpu=fpv4-sp-d16 -DPLATFORMIO=60118 -DSTM32F3 -DSTM32F303xC -DF_CPU=72000000L -I.platformio/packages/framework-libopencm3 -I.platformio/packages/framework-libopencm3/include .platformio/packages/framework-libopencm3/lib/cm3/dwt.c",
+        "directory": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software",
+        "file": ".platformio/packages/framework-libopencm3/lib/cm3/dwt.c",
+        "output": ".pio/build/genericSTM32F303CB/FrameworkLibOpenCM3/lib/cm3/dwt.o"
+    },
+    {
+        "command": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc -o .pio/build/genericSTM32F303CB/src/main.o -c -Wimplicit-function-declaration -Wmissing-prototypes -Wstrict-prototypes -mthumb -mcpu=cortex-m4 -Os -ffunction-sections -fdata-sections -Wall -Wextra -Wredundant-decls -Wshadow -fno-common -mfloat-abi=hard -mfpu=fpv4-sp-d16 -DPLATFORMIO=60118 -DSTM32F3 -DSTM32F303xC -DF_CPU=72000000L -Iinclude -Isrc -I.platformio/packages/framework-libopencm3 -I.platformio/packages/framework-libopencm3/include src/main.c",
+        "directory": "/home/samminhch/Code/repos/Ford_F150_Raptor_SumoBot_AL_Trim/Software",
+        "file": "src/main.c",
+        "output": ".pio/build/genericSTM32F303CB/src/main.o"
+    }
+]
