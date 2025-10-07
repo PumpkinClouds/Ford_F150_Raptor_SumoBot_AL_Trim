@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "DRV8231DSGR")(type "KiCad")(uri "${KIPRJMOD}/symbols/DRV8231DSGR.kicad_sym")(options "")(descr ""))
+  (lib (name "SamacSys_Parts")(type "KiCad")(uri "${KIPRJMOD}/KiCAD_Symbol_Add/SamacSys_Parts.kicad_sym")(options "")(descr ""))
+)
