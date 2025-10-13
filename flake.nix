@@ -1,5 +1,5 @@
 {
-  description = "A quick flake for STM32 development";
+  description = "A flake for STM32 development";
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-25.05";
   };
@@ -18,20 +18,29 @@
         in
         pkgs.mkShell {
           packages = with pkgs; [
+            clang-tools
+            clang
+            gcc
+            platformio
+            python3
+            python3Packages.pip
+
             # Markdown editing
             harper
             marksman
+            yaml-language-server
 
             # Project development
             kicad
-            platformio
 
             # Git utils
             lazygit
+            gitui
           ];
 
           shellHook = ''
-            echo "You're in the STM32 Project
+            export PLATFORMIO_CORE_DIR=$PWD/Software/.platformio
+            echo "You're in the development shell for the Ford Raptor SumoBot"
           '';
         };
     };
