@@ -1,4 +1,4 @@
-26812128143074542
+26815647618005458
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -97684,6 +97684,13 @@ Crystal or Oscillator
 0
 4
 4
+SamacSys_Parts
+USB421603A
+USB4216-03-A-3
+Connector
+0
+16
+16
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
@@ -106966,3 +106973,10 @@ Varistor VF
 0
 2
 2
+footprints
+WSON8_DRV8231_TEX
+
+DRV8231DSGR 
+0
+9
+9
