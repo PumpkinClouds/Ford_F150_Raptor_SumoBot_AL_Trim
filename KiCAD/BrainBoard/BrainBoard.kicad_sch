@@ -745,6 +745,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "3S, 12V nominal\nTLV1117-33 restricts battery to max. 15V"
+		(exclude_from_sim no)
+		(at 31.75 64.77 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "7a07914d-addd-4bc7-9369-4ac80b0602ad")
+	)
 	(junction
 		(at 38.1 82.55)
 		(diameter 0)
@@ -1303,7 +1313,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+12V"
+		(property "Value" "+BATT"
 			(at 38.1 68.58 0)
 			(effects
 				(font
@@ -1358,7 +1368,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "a82efd04-dc51-45c5-93fc-603049f3ed0f")
 		(property "Reference" "#PWR09"
 			(at 175.26 67.31 0)
@@ -1369,12 +1378,13 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+12V"
-			(at 175.26 58.42 0)
+		(property "Value" "+BATT"
+			(at 172.72 58.674 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
@@ -1434,7 +1444,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+12V"
+		(property "Value" "+BATT"
 			(at 55.88 69.85 0)
 			(effects
 				(font
@@ -1652,7 +1662,7 @@
 				(justify left top)
 			)
 		)
-		(pin "12V" input
+		(pin "BATT" input
 			(at 58.42 90.17 180)
 			(uuid "448252b7-ef6d-4b90-ad62-1cbfcbeb2695")
 			(effects

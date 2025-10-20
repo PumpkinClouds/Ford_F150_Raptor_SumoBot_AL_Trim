@@ -2946,7 +2946,7 @@
 	)
 	(text "HSE (32 MHz Clock)\n"
 		(exclude_from_sim no)
-		(at 92.71 83.185 0)
+		(at 92.71 83.82 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2956,7 +2956,7 @@
 	)
 	(text "Each TIM is a timer that controls a pwm frequency. Each motor driver needs 2"
 		(exclude_from_sim no)
-		(at 204.47 64.135 0)
+		(at 204.47 64.77 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3482,7 +3482,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.095 105.41) (xy 127 105.41)
+			(xy 125.73 105.41) (xy 127 105.41)
 		)
 		(stroke
 			(width 0)
@@ -3492,7 +3492,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.095 113.03) (xy 127 113.03)
+			(xy 125.73 113.03) (xy 127 113.03)
 		)
 		(stroke
 			(width 0)
@@ -3522,7 +3522,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 57.15) (xy 165.735 57.15)
+			(xy 162.56 57.15) (xy 166.37 57.15)
 		)
 		(stroke
 			(width 0)
@@ -3692,7 +3692,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.095 97.79) (xy 127 97.79)
+			(xy 125.73 97.79) (xy 127 97.79)
 		)
 		(stroke
 			(width 0)
@@ -3702,7 +3702,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.095 82.55) (xy 127 82.55)
+			(xy 125.73 82.55) (xy 127 82.55)
 		)
 		(stroke
 			(width 0)
@@ -3722,7 +3722,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.095 115.57) (xy 127 115.57)
+			(xy 125.73 115.57) (xy 127 115.57)
 		)
 		(stroke
 			(width 0)
@@ -4002,7 +4002,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 54.61) (xy 165.735 54.61)
+			(xy 162.56 54.61) (xy 166.37 54.61)
 		)
 		(stroke
 			(width 0)
@@ -4012,7 +4012,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.095 110.49) (xy 127 110.49)
+			(xy 125.73 110.49) (xy 127 110.49)
 		)
 		(stroke
 			(width 0)
@@ -4152,7 +4152,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 69.85) (xy 165.735 69.85)
+			(xy 162.56 69.85) (xy 166.37 69.85)
 		)
 		(stroke
 			(width 0)
@@ -4172,7 +4172,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 72.39) (xy 165.735 72.39)
+			(xy 162.56 72.39) (xy 166.37 72.39)
 		)
 		(stroke
 			(width 0)
@@ -4192,7 +4192,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.095 95.25) (xy 127 95.25)
+			(xy 125.73 95.25) (xy 127 95.25)
 		)
 		(stroke
 			(width 0)
@@ -4352,7 +4352,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 67.31) (xy 165.735 67.31)
+			(xy 162.56 67.31) (xy 166.37 67.31)
 		)
 		(stroke
 			(width 0)
@@ -4372,7 +4372,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.095 118.11) (xy 127 118.11)
+			(xy 125.73 118.11) (xy 127 118.11)
 		)
 		(stroke
 			(width 0)
@@ -4512,7 +4512,7 @@
 	)
 	(hierarchical_label "PB12_ANA"
 		(shape input)
-		(at 125.095 110.49 180)
+		(at 125.73 110.49 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4523,7 +4523,7 @@
 	)
 	(hierarchical_label "TIM3_PWM1"
 		(shape output)
-		(at 165.735 67.31 0)
+		(at 166.37 67.31 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4545,7 +4545,7 @@
 	)
 	(hierarchical_label "PB1_IN"
 		(shape input)
-		(at 125.095 82.55 180)
+		(at 125.73 82.55 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4556,7 +4556,7 @@
 	)
 	(hierarchical_label "TIM2_PWM1"
 		(shape output)
-		(at 165.735 54.61 0)
+		(at 166.37 54.61 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4567,7 +4567,7 @@
 	)
 	(hierarchical_label "TIM3_PWM2"
 		(shape output)
-		(at 165.735 69.85 0)
+		(at 166.37 69.85 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4578,7 +4578,7 @@
 	)
 	(hierarchical_label "TIM1_PWM1_Servo"
 		(shape output)
-		(at 165.735 72.39 0)
+		(at 166.37 72.39 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4589,7 +4589,7 @@
 	)
 	(hierarchical_label "PB13_ANA"
 		(shape input)
-		(at 125.095 113.03 180)
+		(at 125.73 113.03 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4600,7 +4600,7 @@
 	)
 	(hierarchical_label "TIM2_PWM2"
 		(shape output)
-		(at 165.735 57.15 0)
+		(at 166.37 57.15 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4622,7 +4622,7 @@
 	)
 	(hierarchical_label "TIM15_PWM2"
 		(shape output)
-		(at 125.095 118.11 180)
+		(at 125.73 118.11 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4633,7 +4633,7 @@
 	)
 	(hierarchical_label "TIM15_PWM1"
 		(shape output)
-		(at 125.095 115.57 180)
+		(at 125.73 115.57 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4644,7 +4644,7 @@
 	)
 	(hierarchical_label "TIM4_PWM2"
 		(shape output)
-		(at 125.095 95.25 180)
+		(at 125.73 95.25 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4655,7 +4655,7 @@
 	)
 	(hierarchical_label "PB10_ANA"
 		(shape input)
-		(at 125.095 105.41 180)
+		(at 125.73 105.41 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4666,7 +4666,7 @@
 	)
 	(hierarchical_label "TIM4_PWM1"
 		(shape output)
-		(at 125.095 97.79 180)
+		(at 125.73 97.79 180)
 		(effects
 			(font
 				(size 1.27 1.27)

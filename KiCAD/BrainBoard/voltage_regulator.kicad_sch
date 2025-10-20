@@ -558,7 +558,7 @@
 	)
 	(text "aluminum electrolytic or tantalum\nESR = 100mΩ to 1Ω\nsee datasheet"
 		(exclude_from_sim no)
-		(at 157.226 105.918 0)
+		(at 157.48 105.41 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -705,7 +705,7 @@
 		)
 		(uuid "d703ba8c-76a5-4b77-afd7-a6e076ce0c5d")
 	)
-	(hierarchical_label "12V"
+	(hierarchical_label "BATT"
 		(shape input)
 		(at 114.3 93.98 180)
 		(effects
