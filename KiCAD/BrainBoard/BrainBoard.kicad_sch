@@ -745,7 +745,7 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "3S, 12V nominal\nTLV1117-33 restricts battery to max. 15V"
+	(text "3S, 11.1V nominal\nTLV1117-33 restricts battery to max. 15V"
 		(exclude_from_sim no)
 		(at 31.75 64.77 0)
 		(effects
