@@ -1,29 +1,42 @@
-#include <libopencm3/stm32/gpio.h>
-#include <libopencm3/stm32/rcc.h>
+#include "stm32f303xc.h"
+#include "stm32f3xx_hal.h"
+#include "stm32f3xx_hal_gpio.h"
+#include "stm32f3xx_hal_rcc.h"
 
-/* Set STM32 to 64 MHz. */
-static void clock_setup(void) {
-    rcc_clock_setup_hsi(&rcc_hsi_configs[RCC_CLOCK_HSI_64MHZ]);
-}
+#include <pwm.h>
+#include <stdint.h>
 
-/**
- * Set the GPIO pins of the microcontroller
- */
-static void gpio_setup(void) {
-    // Enable clocks for GPIO Ports
-    rcc_periph_clock_enable(RCC_GPIOE);
-
-    /* Set GPIO12 (in GPIO port D) to 'output push-pull'. */
-    gpio_mode_setup(
-        GPIOE, GPIO_MODE_OUTPUT, GPIO_PUPD_NONE, GPIO8 | GPIO9 | GPIO10 | GPIO11
+void gpio_setup() {
+    __HAL_RCC_GPIOA_CLK_ENABLE();
+    __HAL_RCC_GPIOB_CLK_ENABLE();
+    HAL_GPIO_Init(
+        GPIOA, &(GPIO_InitTypeDef) {.Pin  = GPIO_PIN_3 | GPIO_PIN_15,
+                                    .Mode = GPIO_MODE_INPUT,
+                                    .Pull = GPIO_NOPULL}
+    );
+    HAL_GPIO_Init(
+        GPIOB, &(GPIO_InitTypeDef) {.Pin  = GPIO_PIN_1 | GPIO_PIN_8,
+                                    .Mode = GPIO_MODE_INPUT,
+                                    .Pull = GPIO_NOPULL}
+    );
+    HAL_GPIO_Init(
+        GPIOB,
+        &(GPIO_InitTypeDef) {.Pin  = GPIO_PIN_10 | GPIO_PIN_12 | GPIO_PIN_13,
+                             .Mode = GPIO_MODE_ANALOG,
+                             .Pull = GPIO_NOPULL}
     );
 }
 
-int main(void) {
-    clock_setup();
+int main() {
+    /* PWM Section */
+    TIM_HandleTypeDef tim1, tim2, tim3, tim4, tim15;
+
+    HAL_Init();
     gpio_setup();
-
-    while (1) {}
-
+    timer_init(&tim1, TIM1, (uint32_t[]) {1}, 1);
+    timer_init(&tim2, TIM2, (uint32_t[]) {1, 2}, 2);
+    timer_init(&tim3, TIM3, (uint32_t[]) {1, 2}, 2);
+    timer_init(&tim4, TIM4, (uint32_t[]) {1, 2}, 2);
+    timer_init(&tim15, TIM15, (uint32_t[]) {1, 2}, 2);
     return 0;
 }
