@@ -638,6 +638,14 @@
     [
       "d2605501-e14c-4941-bf04-a3dfdbe74b6d",
       "STM32F303CCT6 Microcontroller"
+    ],
+    [
+      "66acbe27-d21f-4a72-ae80-b0ee6361f896",
+      "Line Sensors"
+    ],
+    [
+      "8737b223-e81a-4faf-92cb-1112c498e209",
+      "Distance Sensors"
     ]
   ],
   "text_variables": {}
