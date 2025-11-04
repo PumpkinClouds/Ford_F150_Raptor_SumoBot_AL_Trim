@@ -321,7 +321,7 @@
 		(uuid "76e1c57d-e061-4ff8-a3fc-71d90a50b43e")
 	)
 	(junction
-		(at 139.7 121.285)
+		(at 139.7 121.92)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "916b1302-f8b8-4a25-9ed4-8e8eff76f2b3")
@@ -334,7 +334,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.765 116.205) (xy 153.67 116.205)
+			(xy 152.4 116.84) (xy 153.67 116.84)
 		)
 		(stroke
 			(width 0)
@@ -344,7 +344,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.765 109.22) (xy 153.67 109.22)
+			(xy 152.4 109.22) (xy 153.67 109.22)
 		)
 		(stroke
 			(width 0)
@@ -354,7 +354,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.765 88.265) (xy 153.67 88.265)
+			(xy 152.4 88.9) (xy 153.67 88.9)
 		)
 		(stroke
 			(width 0)
@@ -364,7 +364,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.765 97.79) (xy 153.67 97.79)
+			(xy 152.4 97.79) (xy 153.67 97.79)
 		)
 		(stroke
 			(width 0)
@@ -374,7 +374,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.765 118.745) (xy 153.67 118.745)
+			(xy 152.4 119.38) (xy 153.67 119.38)
 		)
 		(stroke
 			(width 0)
@@ -394,7 +394,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.765 100.33) (xy 153.67 100.33)
+			(xy 152.4 100.33) (xy 153.67 100.33)
 		)
 		(stroke
 			(width 0)
@@ -404,7 +404,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 121.285) (xy 139.7 126.365)
+			(xy 139.7 121.92) (xy 139.7 127)
 		)
 		(stroke
 			(width 0)
@@ -414,7 +414,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.765 106.68) (xy 153.67 106.68)
+			(xy 152.4 106.68) (xy 153.67 106.68)
 		)
 		(stroke
 			(width 0)
@@ -424,7 +424,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.765 90.805) (xy 153.67 90.805)
+			(xy 152.4 91.44) (xy 153.67 91.44)
 		)
 		(stroke
 			(width 0)
@@ -434,7 +434,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 111.76) (xy 139.7 121.285)
+			(xy 139.7 111.76) (xy 139.7 121.92)
 		)
 		(stroke
 			(width 0)
@@ -444,7 +444,7 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 93.345) (xy 139.7 93.345)
+			(xy 153.67 93.98) (xy 139.7 93.98)
 		)
 		(stroke
 			(width 0)
@@ -464,7 +464,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 121.285) (xy 153.67 121.285)
+			(xy 139.7 121.92) (xy 153.67 121.92)
 		)
 		(stroke
 			(width 0)
@@ -484,7 +484,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 93.345) (xy 139.7 102.87)
+			(xy 139.7 93.98) (xy 139.7 102.87)
 		)
 		(stroke
 			(width 0)
@@ -494,7 +494,7 @@
 	)
 	(hierarchical_label "LINE_2"
 		(shape output)
-		(at 151.765 97.79 180)
+		(at 152.4 97.79 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -505,7 +505,7 @@
 	)
 	(hierarchical_label "LINE_3"
 		(shape output)
-		(at 151.765 106.68 180)
+		(at 152.4 106.68 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -516,7 +516,7 @@
 	)
 	(hierarchical_label "3V3"
 		(shape input)
-		(at 151.765 100.33 180)
+		(at 152.4 100.33 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -527,7 +527,7 @@
 	)
 	(hierarchical_label "LINE_4"
 		(shape output)
-		(at 151.765 116.205 180)
+		(at 152.4 116.84 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -538,7 +538,7 @@
 	)
 	(hierarchical_label "LINE_1"
 		(shape output)
-		(at 151.765 88.265 180)
+		(at 152.4 88.9 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -549,7 +549,7 @@
 	)
 	(hierarchical_label "3V3"
 		(shape input)
-		(at 151.765 118.745 180)
+		(at 152.4 119.38 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -560,7 +560,7 @@
 	)
 	(hierarchical_label "3V3"
 		(shape input)
-		(at 151.765 109.22 180)
+		(at 152.4 109.22 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -571,7 +571,7 @@
 	)
 	(hierarchical_label "3V3"
 		(shape input)
-		(at 151.765 90.805 180)
+		(at 152.4 91.44 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -728,7 +728,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x03_Socket")
-		(at 158.75 90.805 0)
+		(at 158.75 91.44 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -737,7 +737,7 @@
 		(fields_autoplaced yes)
 		(uuid "49613286-68d4-4424-953b-b3ba62899368")
 		(property "Reference" "J6"
-			(at 160.02 89.5349 0)
+			(at 160.02 90.1699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -746,7 +746,7 @@
 			)
 		)
 		(property "Value" "Conn_01x03_Socket"
-			(at 160.02 92.0749 0)
+			(at 160.02 92.7099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -755,7 +755,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical"
-			(at 158.75 90.805 0)
+			(at 158.75 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -764,7 +764,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 158.75 90.805 0)
+			(at 158.75 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -773,7 +773,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated"
-			(at 158.75 90.805 0)
+			(at 158.75 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -801,7 +801,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x03_Socket")
-		(at 158.75 118.745 0)
+		(at 158.75 119.38 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -810,7 +810,7 @@
 		(fields_autoplaced yes)
 		(uuid "52d721e9-4ad6-44b6-a320-6bb5ae735c91")
 		(property "Reference" "J9"
-			(at 160.02 117.4749 0)
+			(at 160.02 118.1099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -819,7 +819,7 @@
 			)
 		)
 		(property "Value" "Conn_01x03_Socket"
-			(at 160.02 120.0149 0)
+			(at 160.02 120.6499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -828,7 +828,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical"
-			(at 158.75 118.745 0)
+			(at 158.75 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -837,7 +837,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 158.75 118.745 0)
+			(at 158.75 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -846,7 +846,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated"
-			(at 158.75 118.745 0)
+			(at 158.75 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -874,7 +874,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 139.7 126.365 0)
+		(at 139.7 127 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -883,7 +883,7 @@
 		(fields_autoplaced yes)
 		(uuid "8f83b388-71b2-47dc-be48-b97cde3f9caa")
 		(property "Reference" "#PWR030"
-			(at 139.7 132.715 0)
+			(at 139.7 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -892,7 +892,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 139.7 130.81 0)
+			(at 139.7 131.445 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -901,7 +901,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 139.7 126.365 0)
+			(at 139.7 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -910,7 +910,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 139.7 126.365 0)
+			(at 139.7 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -919,7 +919,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 139.7 126.365 0)
+			(at 139.7 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)

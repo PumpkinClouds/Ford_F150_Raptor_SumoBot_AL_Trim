@@ -328,7 +328,7 @@
 	)
 	(wire
 		(pts
-			(xy 133.985 80.01) (xy 137.16 80.01)
+			(xy 134.62 80.01) (xy 137.16 80.01)
 		)
 		(stroke
 			(width 0)
@@ -418,7 +418,7 @@
 	)
 	(wire
 		(pts
-			(xy 133.985 85.09) (xy 137.16 85.09)
+			(xy 134.62 85.09) (xy 137.16 85.09)
 		)
 		(stroke
 			(width 0)
@@ -459,7 +459,7 @@
 	)
 	(hierarchical_label "DIST_SENS_1"
 		(shape output)
-		(at 133.985 85.09 180)
+		(at 134.62 85.09 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -481,7 +481,7 @@
 	)
 	(hierarchical_label "5V"
 		(shape input)
-		(at 133.985 80.01 180)
+		(at 134.62 80.01 180)
 		(effects
 			(font
 				(size 1.27 1.27)

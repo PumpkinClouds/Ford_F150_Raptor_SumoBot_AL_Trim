@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "DRV8231DSGR")(type "KiCad")(uri "${KIPRJMOD}/symbols/DRV8231DSGR.kicad_sym")(options "")(descr ""))
   (lib (name "SamacSys_Parts")(type "KiCad")(uri "${KIPRJMOD}/KiCAD_Symbol_Add/SamacSys_Parts.kicad_sym")(options "")(descr ""))
+  (lib (name "LM2940IMPX-5")(type "KiCad")(uri "${KIPRJMOD}/symbols/LM2940IMPX-5.kicad_sym")(options "")(descr ""))
 )

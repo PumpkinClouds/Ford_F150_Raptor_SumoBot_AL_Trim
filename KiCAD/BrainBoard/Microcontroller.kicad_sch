@@ -4291,6 +4291,16 @@
 		)
 		(uuid "0b3f9a0f-1b92-4ce2-89fc-aa1f5b9c9d2f")
 	)
+	(label "USB_D-"
+		(at 172.72 80.01 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "28136fc6-8b74-4708-b13d-e3464f314117")
+	)
 	(label "SW_BOOT0"
 		(at 96.52 57.15 0)
 		(effects
@@ -4330,16 +4340,6 @@
 			(justify left bottom)
 		)
 		(uuid "9f3f4bf0-20cb-41a7-a4bc-823169077045")
-	)
-	(label "USB_D-"
-		(at 165.1 80.01 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a7195f8f-f4fd-4910-bd1c-be38f43821df")
 	)
 	(label "NRST"
 		(at 106.68 52.07 0)
